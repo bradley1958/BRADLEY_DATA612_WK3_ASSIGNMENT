@@ -8,3 +8,4 @@ I followed this up with a seaborn "pairplot" to draw a comparision between the t
 Next, I used seaborn to construct a boxplot with the intent of showing the difference between each quarter and the total number of prescriptions written. While the plots give a graphic visualization, the plots are too squashed to give a prefect boxplot visualiazation of these two data points.
 I followed up with trying to use seaborn once agin to construct a violin plot, but here again the output was too squashed to givea prefect visualiztion of the two data points (Medicaid Amount Reimbursed vs. Non Medicaid Amount Reimbursed).
 Finally, I used a simple scatter plot between these two cost reimbursements in an effort to show the relationship between the two cost reimbursement methods.
+BRADLEY, ORREN/DATA_612_WEEK3
